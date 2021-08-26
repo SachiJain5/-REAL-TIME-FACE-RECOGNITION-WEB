@@ -1,0 +1,27 @@
+.head{
+    font-size: 23px;
+    width: 100%;
+    box-shadow: 5px 5px 5px grey;
+}
+.heading_div{
+    float: none;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 5px 5px 5px grey;
+    color: black;
+    border-radius: 20px;
+}
+.heading_div2{
+    font-size: 18px;
+}
+.image_name{
+    font-size: 23px;
+    color: rgb(9, 94, 9);
+    box-shadow: 10px 10px 10px darkcyan;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 170px;
+}
